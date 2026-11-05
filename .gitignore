@@ -1,0 +1,5 @@
+# secure-audit-sandbox/.gitignore
+node_modules/
+.env
+.vscode/
+npm-debug.log*

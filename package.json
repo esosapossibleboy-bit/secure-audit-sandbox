@@ -1,0 +1,18 @@
+{
+  "name": "secure-audit-sandbox",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest --forceExit"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "helmet": "^8.3.0"
+  },
+  "devDependencies": {
+    "jest": "^30.5.2",
+    "supertest": "^7.3.1"
+  }
+}
